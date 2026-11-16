@@ -11,4 +11,6 @@ we are just kidding;;;;
 logo alignment center.
 the bug is fixed.
 
-this is new text
+
+i'm adding new line.
+
